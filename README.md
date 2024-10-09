@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  🛠️ Linguagens: .Net C#, Java Script, Angular.
+  🛠️ Linguagens e Ferramentas: .Net C#, HTML, CSS, Java Script, TypeScript, Angular, SQL.
 </p>
 
 <p align="left">
