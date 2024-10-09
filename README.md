@@ -1,4 +1,4 @@
-<img src="https://github.com/2gsilva/2gsilva/blob/main/img/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="/img/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h1>Seja Bem Vindo!</h1>
 
