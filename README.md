@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h1>Seja Bem vindo ao meu Pefil!</h1>
+<h1>Seja Bem vindo!</h1>
 
 <p align="left"> 
 
   Olá, eu me chamo Guilherme Silva de Azevedo. </br>  
   
-  Sou Analista de Sistemas na Firjan, onde aplico minhas competências para otimizar processos e produtos. Minha missão é desenvolver soluções tecnológicas que impulsionam a    eficiência e inovação organizacional. </br>
+  Sou Analista de Sistemas na Firjan, onde aplico minhas competências para otimizar processos e produtos. Minha missão é       desenvolver soluções tecnológicas que impulsionam a eficiência e inovação organizacional. </br>
   
   Tenho atuado com desenvolvimento de soluções utilizando diferentes tecnologias.</br>
   
-  No coração do meu trabalho está a paixão por modernizar aplicações, uma habilidade que solidifiquei através de certificações profissionais e prática contínua.
+  Sou Graduado em Análise e Desenvolvimento de Sistemas, Pós-Graduado em Engenharia de Software e Arquitetura de Sistemas      Distribuídos.
 
 </p>
 
