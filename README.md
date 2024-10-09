@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💼 Skills: Desenvolvimento de software, Arquitetura de soluções, Arquitetura de Sistemas, Design Patterns, Orientação a objetos, Solid, Clean Code, Agile, DevOps.  
+  💼 Skills: Full Stack Development, Arquitetura de Soluções, Arquitetura de Sistemas, Design Patterns, Orientação a Objetos, Solid, Clean Code, Agile, DevOps.  
 </p>
 
 <p align="left">
